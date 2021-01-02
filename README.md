@@ -6,7 +6,9 @@ By using the Biostrings package, I calculated the occurrences and percentages of
 
 # Main Result
 ![alt text](https://github.com/Holin-Chen/coronavirus-CpG-genetic-analysis/blob/main/plots/I_CpG%20plot.png)
+
 The curves of GC contents and CpG deficiency for SAR-CoV-2 reach peaks the most quickly than other 4 coronaviruses, meaning the CpG deficiency for SAR-CoV-2 is the most apparent among these 5 coronaviruses. The curve of CpG deficiency for MERS-CoV reaches peak at last in high density, indicating the CpG deficiency for MERS-CoV is relatively moderate comparing to other coronaviruses.
 
 ![alt text](https://github.com/Holin-Chen/coronavirus-CpG-genetic-analysis/blob/main/plots/scatter%20plot.png)
+
 most scatters of SAR-CoV-2 with its mean point (pCG = 0.3786, CpG deficiency=0.3803) locate at the bottom left area of the plot, proving again that SAR-CoV-2 has the lowest CG content and strongest CpG deficiency among the five coronaviruses. The mean CpG deficiencies among 1000 bp windows for SAR-CoV, MERS-CoV, bat-SL-CoVZC45 and bat-SL-CoVZXC21 are 0.4432, 0.5577, 0.4224, 0.4224 separately, which are all larger than that in SAR-CoV-2 of 0.3803. 
